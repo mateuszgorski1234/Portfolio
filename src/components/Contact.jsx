@@ -39,7 +39,7 @@ export default function Contact() {
                 <Mail className="info-icon text-indigo" size={20} />
                 <div className="info-content">
                   <span className="info-label">Napisz e-mail</span>
-                  <a href="mailto:kontakt@twojadomena.pl" className="info-value">mateusz@example.com</a>
+                  <a href="mailto:mateuszgorski1234@gmail.com" className="info-value">mateuszgorski1234@gmail.com</a>
                 </div>
               </div>
 
